@@ -7,6 +7,7 @@ C:\Users\pedro\Projetos\obj\Debug\net9.0\Projetos.GeneratedMSBuildEditorConfig.e
 C:\Users\pedro\Projetos\obj\Debug\net9.0\Projetos.AssemblyInfoInputs.cache
 C:\Users\pedro\Projetos\obj\Debug\net9.0\Projetos.AssemblyInfo.cs
 C:\Users\pedro\Projetos\obj\Debug\net9.0\Projetos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Projetos\obj\Debug\net9.0\Projetos.sourcelink.json
 C:\Users\pedro\Projetos\obj\Debug\net9.0\Projetos.dll
 C:\Users\pedro\Projetos\obj\Debug\net9.0\refint\Projetos.dll
 C:\Users\pedro\Projetos\obj\Debug\net9.0\Projetos.pdb

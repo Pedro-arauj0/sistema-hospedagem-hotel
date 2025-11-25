@@ -1,6 +1,6 @@
 using System;
 
-namespace ProjetoEstacionamento.Models
+namespace Projetos.Models
 {
     public class Veiculo
     {

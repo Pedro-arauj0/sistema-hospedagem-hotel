@@ -1,0 +1,15 @@
+C:\Users\pedro\Projetos\Projeto hotel\bin\Debug\net9.0\Projeto hotel.exe
+C:\Users\pedro\Projetos\Projeto hotel\bin\Debug\net9.0\Projeto hotel.deps.json
+C:\Users\pedro\Projetos\Projeto hotel\bin\Debug\net9.0\Projeto hotel.runtimeconfig.json
+C:\Users\pedro\Projetos\Projeto hotel\bin\Debug\net9.0\Projeto hotel.dll
+C:\Users\pedro\Projetos\Projeto hotel\bin\Debug\net9.0\Projeto hotel.pdb
+C:\Users\pedro\Projetos\Projeto hotel\obj\Debug\net9.0\Projeto hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Projetos\Projeto hotel\obj\Debug\net9.0\Projeto hotel.AssemblyInfoInputs.cache
+C:\Users\pedro\Projetos\Projeto hotel\obj\Debug\net9.0\Projeto hotel.AssemblyInfo.cs
+C:\Users\pedro\Projetos\Projeto hotel\obj\Debug\net9.0\Projeto hotel.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Projetos\Projeto hotel\obj\Debug\net9.0\Projeto hotel.sourcelink.json
+C:\Users\pedro\Projetos\Projeto hotel\obj\Debug\net9.0\Projeto hotel.dll
+C:\Users\pedro\Projetos\Projeto hotel\obj\Debug\net9.0\refint\Projeto hotel.dll
+C:\Users\pedro\Projetos\Projeto hotel\obj\Debug\net9.0\Projeto hotel.pdb
+C:\Users\pedro\Projetos\Projeto hotel\obj\Debug\net9.0\Projeto hotel.genruntimeconfig.cache
+C:\Users\pedro\Projetos\Projeto hotel\obj\Debug\net9.0\ref\Projeto hotel.dll

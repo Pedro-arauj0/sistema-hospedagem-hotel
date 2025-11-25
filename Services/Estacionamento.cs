@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using ProjetoEstacionamento.Models;
+using Projetos.Models;
 
 namespace Projetos.Services
 {
@@ -13,6 +13,12 @@ namespace Projetos.Services
 
         public void CadastrarVeiculo(string placa, string modelo)
         {
+            if (string.IsNullOrWhiteSpace(placa) || string.IsNullOrWhiteSpace(modelo))
+            {
+                Console.WriteLine("❌ Placa ou modelo inválido.");
+                return;
+            }
+
             var veiculo = new Veiculo(placa, modelo);
             veiculos.Add(veiculo);
             Console.WriteLine($"✅ Veículo {modelo} - {placa} cadastrado com sucesso!");
@@ -36,6 +42,12 @@ namespace Projetos.Services
 
         public void RemoverVeiculo(string placa)
         {
+            if (string.IsNullOrWhiteSpace(placa))
+            {
+                Console.WriteLine("❌ Placa inválida.");
+                return;
+            }
+
             var veiculo = veiculos.FirstOrDefault(v => v.Placa.ToUpper() == placa.ToUpper());
             if (veiculo != null)
             {
