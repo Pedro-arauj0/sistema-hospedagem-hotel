@@ -1,0 +1,15 @@
+C:\Users\pedro\Projetos\FundamentosPoo\bin\Debug\net9.0\FundamentosPoo.exe
+C:\Users\pedro\Projetos\FundamentosPoo\bin\Debug\net9.0\FundamentosPoo.deps.json
+C:\Users\pedro\Projetos\FundamentosPoo\bin\Debug\net9.0\FundamentosPoo.runtimeconfig.json
+C:\Users\pedro\Projetos\FundamentosPoo\bin\Debug\net9.0\FundamentosPoo.dll
+C:\Users\pedro\Projetos\FundamentosPoo\bin\Debug\net9.0\FundamentosPoo.pdb
+C:\Users\pedro\Projetos\FundamentosPoo\obj\Debug\net9.0\FundamentosPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Projetos\FundamentosPoo\obj\Debug\net9.0\FundamentosPoo.AssemblyInfoInputs.cache
+C:\Users\pedro\Projetos\FundamentosPoo\obj\Debug\net9.0\FundamentosPoo.AssemblyInfo.cs
+C:\Users\pedro\Projetos\FundamentosPoo\obj\Debug\net9.0\FundamentosPoo.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Projetos\FundamentosPoo\obj\Debug\net9.0\FundamentosPoo.sourcelink.json
+C:\Users\pedro\Projetos\FundamentosPoo\obj\Debug\net9.0\FundamentosPoo.dll
+C:\Users\pedro\Projetos\FundamentosPoo\obj\Debug\net9.0\refint\FundamentosPoo.dll
+C:\Users\pedro\Projetos\FundamentosPoo\obj\Debug\net9.0\FundamentosPoo.pdb
+C:\Users\pedro\Projetos\FundamentosPoo\obj\Debug\net9.0\FundamentosPoo.genruntimeconfig.cache
+C:\Users\pedro\Projetos\FundamentosPoo\obj\Debug\net9.0\ref\FundamentosPoo.dll
